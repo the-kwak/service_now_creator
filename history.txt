@@ -1,0 +1,300 @@
+    1  ls
+    2  sh update-script.sh https://www.dropbox.com/s/wrui3kl6g6gk0te/Deploy.tar.gz?dl=0
+    3  ls
+    4  sh update-script.sh https://www.dropbox.com/s/wrui3kl6g6gk0te/Deploy.tar.gz?dl=0
+    5  sudo su
+    6  usermod -a -G sudo akkadianuser
+    7  clear
+    8  sudo su
+    9  usermod -a -G sudo akkadianuser
+   10  sudo usermod -a -G sudo akkadianuser
+   11   is not in the sudoers file.  This incident will be reported.sudo nano /etc/sudoers
+   12  sudo nano /etc/sudoers
+   13  ls
+   14  sh update-script.sh https://www.dropbox.com/s/wrui3kl6g6gk0te/Deploy.tar.gz?dl=0
+   15  clear
+   16  su
+   17  clear
+   18  sh update-script.sh https://www.dropbox.com/s/wrui3kl6g6gk0te/Deploy.tar.gz?dl=0
+   19  cleat
+   20  clear
+   21  sudo vi /etc/sudoers
+   22  clear
+   23  sudo su
+   24  acc3ss4T3l3m3d$!
+   25  sudo su
+   26  clear
+   27  sudo su
+   28  clear
+   29  exit
+   30  su
+   31  sudo vi /etc/sudoers
+   32  clear
+   33  sh update-script.sh https://www.dropbox.com/s/wrui3kl6g6gk0te/Deploy.tar.gz?dl=0
+   34  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+   35  ls
+   36  vim update-script.sh 
+   37  vi update-script.sh 
+   38  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+   39  .
+   40  3.
+   41  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+   42  ping 172.22.160.26
+   43  nslookup mskcc-local.pcaretv.com
+   44  ping mskcc-local.pcaretv.com
+   45  wget https://mskcc-local.pcaretv.com/nexus/api/devicemanager/v1/-1/device?room.unit=5th Floor&room.room=Norris&room.bed=SmartTV&include=deviceRole&deviceRole.name=TV
+   46  wget "https://mskcc-local.pcaretv.com/nexus/api/devicemanager/v1/-1/device?room.unit=5th Floor&room.room=Norris&room.bed=SmartTV&include=deviceRole&deviceRole.name=TV"
+   47  [1]+  Exit 6                  wget https://mskcc-local.pcaretv.com/nexus/api/devicemanager/v1/-1/device?room.unit=5th Floor
+   48  [akkadianuser@telemed ~]$ wget "https://mskcc-local.pcaretv.com/nexus/api/devicemanager/v1/-1/device?room.unit=5th Floor&room.room=Norris&room.bed=SmartTV&include=deviceRole&deviceRole.name=TV"
+   49  --2021-05-27 11:21:37--  https://mskcc-local.pcaretv.com/nexus/api/devicemanager/v1/-1/device?room.unit=5th%20Floor&room.room=Norris&room.bed=SmartTV&include=deviceRole&deviceRole.name=TV
+   50  Resolving mskcc-local.pcaretv.com (mskcc-local.pcaretv.com)... 172.22.160.26
+   51  Connecting to mskcc-local.pcaretv.com (mskcc-local.pcaretv.com)|172.22.160.26|:443... connected.
+   52  HTTP request sent, awaiting response... 401 Unauthorized
+   53  Authorization failed.
+   54  [akkadianuser@telemed ~]$
+   55  [1]+  Exit 6                  wget https://mskcc-local.pcaretv.com/nexus/api/devicemanager/v1/-1/device?room.unit=5th Floor
+   56  [akkadianuser@telemed ~]$ wget "https://mskcc-local.pcaretv.com/nexus/api/devicemanager/v1/-1/device?room.unit=5th Floor&room.room=Norris&room.bed=SmartTV&include=deviceRole&deviceRole.name=TV"
+   57  --2021-05-27 11:21:37--  https://mskcc-local.pcaretv.com/nexus/api/devicemanager/v1/-1/device?room.unit=5th%20Floor&room.room=Norris&room.bed=SmartTV&include=deviceRole&deviceRole.name=TV
+   58  Resolving mskcc-local.pcaretv.com (mskcc-local.pcaretv.com)... 172.22.160.26
+   59  Connecting to mskcc-local.pcaretv.com (mskcc-local.pcaretv.com)|172.22.160.26|:443... connected.
+   60  HTTP request sent, awaiting response... 401 Unauthorized
+   61  Authorization failed.
+   62  [akkadianuser@telemed ~]$
+   63  ls
+   64  nano update-script.sh 
+   65  pwd
+   66  where kestrel-telemd
+   67  which kestrel-telemed
+   68  ls /opt/Akkadian/telemed/
+   69  cd /opt/Akkadian/telemed/
+   70  ls
+   71  ls runtimes
+   72  ls wwwroot
+   73  pwd
+   74  cd ..
+   75  ls
+   76  cd ..
+   77  ls
+   78  pwd
+   79  cd Akkadian/
+   80  ls
+   81  cd telemed
+   82  ls
+   83  cd ..
+   84  cd 
+   85  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+   86  ping https://mskcc-local.pcaretv.com/
+   87  wget https://mskcc-local.pcaretv.com/nexus/api
+   88  wget https://mskcc-local.pcaretv.com/nexus/api/devicemanager/v1/-1/device?room.unit=5th%20Floor&room.room=Norris&room.bed=SmartTV&include=deviceRole&deviceRole.name=TV
+   89  wget https://mskcc-local.pcaretv.com/nexus/api/devicemanager/v1/-1/device?room.unit=5th%20Floor&room.room=Norris&room.bed=SmartTV&include=deviceRole&deviceRole.name=TVhttps://mskcc-local.pcaretv.com/nexus/api/devicemanager/v1/-1/device?room.unit=5th%20Floor&room.room=Norris&room.bed=SmartTV&include=deviceRole&deviceRole.name=TV
+   90  wget --header="Authorization: Basic bXNrY2MtYXYtZGV2Om1za2NjMTIzNA=="  https://mskcc-local.pcaretv.com/nexus/api/devicemanager/v1/-1/device?room.unit=5th%20Floor&room.room=Norris&room.bed=SmartTV&include=deviceRole&deviceRole.name=TV
+   91  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+   92  sudo shutdown -r
+   93  sudo shutdown -r now
+   94  history
+   95  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+   96  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gzhttps://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+   97  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+   98  history
+   99  ip
+  100  ip addr
+  101  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+  102  uname
+  103  uname -a
+  104  which sshguard
+  105  which fail2ban
+  106  ls /etc/
+  107  ls -a | grep security
+  108  ls -a
+  109  ls /etc -a | grep security
+  110  ls /etc/securetty 
+  111  ls
+  112  cd /etc/securetty 
+  113  nano /etc/securetty 
+  114  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+  115  history 
+  116  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+  117  ls
+  118  ls -al
+  119  fil device\?room.unit\=5th\ Floor 
+  120  rm device\?room.unit\=5th\ Floor 
+  121  ls
+  122  cd certs
+  123  mkdir certs
+  124  ls
+  125  sudo hostname devpcs.mskcc.org
+  126  hostname
+  127  ls
+  128  cd certs/
+  129  LS
+  130  ls
+  131  openssl req -out devPCS.csr -newkey rsa:2048 -nodes -keyout devPCS.key -config san.cnf
+  132  ls
+  133  cp devPCS.key /etc/nginx/cert/
+  134  sudo cp devPCS.key /etc/nginx/cert/
+  135  cd /etc/nginx/cert/
+  136  ls
+  137  rm devPCS.key 
+  138  sudo rm devPCS.key 
+  139  cd 
+  140  cd certs/
+  141  ls
+  142  rm dev*
+  143  ls
+  144  nano san.cnf
+  145  openssl req -out devPCS.csr -newkey rsa:2048 -nodes -keyout devPCS.key -config san.cnf
+  146  sudo cp devPCS.key /etc/nginx/cert/
+  147  cd /etc/nginx/cert/
+  148  ls
+  149  nslookup devpcs.mskcc.org
+  150  ls
+  151  cd
+  152  cd certs/
+  153  ls
+  154  open ssl pksc7 -print_certs -in devcertnew.p7b -out devcertnew.pem
+  155  openssl pksc7 -print_certs -in devcertnew.p7b -out devcertnew.pem
+  156  openssl pkcs7 -print_certs -in devcertnew.p7b -out devcertnew.pem
+  157  ls
+  158  sudo cp devcertnew.pem /etc/nginx/cert/
+  159  cd /etc/nginx/cert/
+  160  ls
+  161  sudo mv cert.key cert.key.bak
+  162  sudo mv devPCS.key cert.key
+  163  sudo mv cert.pem cert.pem.bak
+  164  sudo mv devcertnew.pem cert.pem
+  165  ls
+  166  sudo service nginx reload
+  167  cd
+  168  history | grep update
+  169  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+  170  ls
+  171  cd certs
+  172  ls
+  173  openssl x509 -in ServerCertificate.crt -out ServerCertificate.pem
+  174  ls
+  175  sudo cp ServerCertificate.pem /etc/nginx/cert/cert.pem
+  176  sudo service nginx reload
+  177  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+  178  exit
+  179  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+  180  exit
+  181  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+  182  exit
+  183  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+  184  mysql -h localhost -u root -p Akkad1anT3l3m3d
+  185  mysql localhost -u root -p Akkad1anT3l3m3d
+  186  mysql -h localhost -u root -p Akkad1anT3l3m3d
+  187  mysql -h localhost -u root -p telemed
+  188  mysqldump -u root -p msktelemed  > /tmp/telemed.sql
+  189  pwd
+  190  cd /tml
+  191  cd /tmp
+  192  ls
+  193  ls -ah
+  194  ls -l
+  195  ls -lh
+  196  exit
+  197  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+  198  vi /etc/nginx/nginx.conf
+  199  su root
+  200  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+  201  history
+  202  mysql -h localhost -u root -p telemed
+  203  mysql -h localhost -u root -p msktelemed
+  204  mysql -h localhost -u root
+  205  mysql -h localhost -u root -p
+  206  mysql -h localhost -u root -p MSKtelemed
+  207  mysql -h localhost -u root -p msktelemed
+  208  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+  209  mysql -h localhost -u root -p MSKtelemed
+  210  history 
+  211  mysql -h localhost -u root -p MSKtelemed
+  212  mysql -h localhost -u root -p msktelemed
+  213  exit
+  214  sh update-script.sh https://akkadianlabs-builds.s3.amazonaws.com/Telemed/Deploy.tar.gz
+  215  history
+  216  mysql -h localhost -u root -p msktelemed
+  217  hisotory
+  218  history
+  219  exit
+  220  ls
+  221  ls certs
+  222  ls -la
+  223  ls certs/ -la
+  224  ls /etc/nginx/
+  225  ls /etc/nginx/cert
+  226  cat /etc/nginx/cert/cert.key
+  227  ls
+  228  ls certs
+  229  cat devPCS.key
+  230  cat /certs/devPCS.key
+  231  cat certs/devPCS.key
+  232  ls
+  233  cd certs/
+  234  ls
+  235  mkdir old_cert
+  236  mv ServerCertificate.* old_cert/
+  237  ls
+  238  cp cert_key.key cert.key
+  239  cp cert_pem.pem cert.pem
+  240  ls /etc/nginx/cert/
+  241  rm *.bak
+  242  rm /etc/nginx/cert/*.bak
+  243  sudo rm /etc/nginx/cert/*.bak
+  244  ls /etc/nginx/cert/
+  245  mv /etc/nginx/cert/cert.key /etc/nginx/cert/cert.key.bak
+  246  sudo mv /etc/nginx/cert/cert.key /etc/nginx/cert/cert.key.bak
+  247  ls /etc/nginx/cert/
+  248  sudo mv /etc/nginx/cert/cert.pem /etc/nginx/cert/cert.pem.bak
+  249  ls /etc/nginx/cert/
+  250  ls
+  251  cp cert.* /etc/nginx/cert/
+  252  sudo cp cert.* /etc/nginx/cert/
+  253  ls /etc/nginx/cert/
+  254  history | grep start
+  255  history | grep nginx
+  256  sudo service nginx reload
+  257  exit
+  258  history | grep open
+  259  history | grep pem
+  260  ls /etc/nginx/cert/cert.pem
+  261  ls /etc/nginx/cert/
+  262  cat /etc/nginx/cert/cert.pem.bak
+  263  ls
+  264  cd certs/
+  265  ls
+  266  sudo mv /etc/nginx/cert/cert.pem /etc/nginx/cert/cert.pem.bak
+  267  sudo cp Certificate_pem.pem /etc/nginx/cert/cert.pem
+  268  history
+  269  sudo service nginx reload
+  270  cat /etc/nginx/cert/cert.pem.bak
+  271  cat /etc/nginx/cert/cert.pem
+  272  clear
+  273  ls /etc/nginx/cert/
+  274  cat /etc/nginx/cert/cert.pem
+  275  clear
+  276  history
+  277  cd
+  278  ls
+  279  cd certs
+  280  ls
+  281  ls old_cert/
+  282  cat old_cert/ServerCertificate.crt 
+  283  history | grep nginx
+  284  sudo service nginx reload
+  285  ls
+  286  ls old_cert/ServerCertificate.pem
+  287  cat old_cert/ServerCertificate.pem
+  288  cd ..
+  289  openssl x509 -in Certificate_pem.pem -out new_server_cert.pem
+  290  cd certs/
+  291  openssl x509 -in Certificate_pem.pem -out new_server_cert.pem
+  292  sudo cp new_server_cert.pem /etc/nginx/cert/cert.pem
+  293  sudo service nginx reload
+  294  sudo cat /etc/nginx/cert/cert.pem
+  295  exit
+  296  history 
+  297  ls
+  298  history | grep cert
+  299  history 
+  300  history > history.txt

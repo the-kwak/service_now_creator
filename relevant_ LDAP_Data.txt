@@ -1,0 +1,208 @@
+ [('CN=chirenok,OU=Information Systems,OU=MSK,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+   {'department': [b'DigITs'],
+    'description': [b'DigITs'],
+    'displayName': [b'Chireno, Khristopher'],
+    'displayNamePrintable': [b'Chireno, Khristopher'],
+    'division': [b'CL'],
+    'employeeID': [b'741610000'],
+    'extensionAttribute15': [b'Khristopher Chireno'],
+    'givenName': [b'Khristopher'],
+    'info': [b'Cellphone Number: +1646-761-1669'],
+    'l': [b'New York'],
+    'mail': [b'chirenok@mskcc.org'],
+    'mailNickname': [b'chirenok'],
+    'manager': [b'CN=SamassiK,OU=Information Systems,OU=MSK,DC=MSKCC,DC=ROOT,D'
+                b'C=MSKCC,DC=ORG'],
+    'memberOf': [b'CN=GRP_MIS_GlobalProtect_Managed,OU=ezGroups,OU=Resources,DC'
+                 b'=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_Digits_FTE_Staff_Test,OU=Exchange PDLs,OU=Resources'
+                 b',DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_TDV_PAM_NetOps,OU=ezGroups,OU=Resources,DC=MSKCC,DC=R'
+                 b'OOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_TDV_GHECEMU_ENT_RO,OU=ezGroups,OU=Resources,DC=MSKCC,'
+                 b'DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_TDV_Thomas_Schwarz,OU=Exchange PDLs,OU=Resources,DC'
+                 b'=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_DigITs_eSignUserList,OU=Exchange PDLs,OU=Resources,'
+                 b'DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_TDV_SplunkUsers,OU=ezGroups,OU=Resources,DC=MSKCC,DC='
+                 b'ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_TDV_Employees-for-MSK-WIFI,OU=Exchange Mail-Enabled'
+                 b' Security Groups,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=O'
+                 b'RG',
+                 b'CN=RES_Opensys_U_plvinetcodecsn1_UNIX Root,OU=Linux,OU=UserR'
+                 b'oles,OU=Unix,OU=Open Systems,OU=Resources,DC=MSKCC,DC=ROOT,D'
+                 b'C=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_Office365_E5Audit,OU=ezGroups,OU=Resources,DC=MSK'
+                 b'CC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_Network,CN=Users,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_TDV_Amelia_Dev_Access,OU=ezGroups,OU=Resources,DC=MSK'
+                 b'CC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_CCM_MM_Attendees,OU=Exchange PDLs,OU=Resources,DC=M'
+                 b'SKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_HRM_Eightfold,OU=ezGroups,OU=Resources,DC=MSKCC,DC=RO'
+                 b'OT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_HRM_HMM_Users,OU=ezGroups,OU=Resources,DC=MSKCC,DC=RO'
+                 b'OT,DC=MSKCC,DC=ORG',
+                 b'CN=SGM_SHP_DigITs_OnCallCalendar_Master,OU=Security Group Ma'
+                 b'nager,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=TDV_GRP_GDrive_Migrated_Users,OU=Office365Sync,OU=ezGroup'
+                 b's,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_Allstaff_Emergency,OU=Exchange PDLs,OU=Resources,DC'
+                 b'=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_Allstaff_Update,OU=Exchange PDLs,OU=Resources,DC=MS'
+                 b'KCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_ETS_AllStaff,OU=ezGroups,OU=Resources,DC=MSKCC,DC'
+                 b'=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_TDV_AgilQuest_ApplicationAccessScope-for-O365,OU=Ex'
+                 b'change Mail-Enabled Security Groups,OU=Resources,DC=MSKCC,DC'
+                 b'=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_TDV_MSKHolidays-for-InformationSystems,OU=Exchange '
+                 b'PDLs,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_MSK_HAD_GITHUB_USERS,OU=Exchange PDLs,OU=Resources,'
+                 b'DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_TDV_Genesys_CIC_Application_Scope-for-O365,OU=Excha'
+                 b'nge Mail-Enabled Security Groups,OU=Resources,DC=MSKCC,DC=RO'
+                 b'OT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_TDV_GlobalProtect_App,OU=AADConnect,OU=Apps,OU=Resour'
+                 b'ces,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_TDV_Pulse_Secure_App,OU=AADConnect,OU=Apps,OU=Resourc'
+                 b'es,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_MSK_Full_Tech_Staff,OU=Exchange PDLs,OU=Resources,D'
+                 b'C=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=CachedModeforEXO12Months,CN=Users,DC=MSKCC,DC=ROOT,DC=MSK'
+                 b'CC,DC=ORG',
+                 b'CN=GRP_MIS_Genesys_Prod_Users,OU=ezGroups,OU=Resources,DC=MS'
+                 b'KCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_DigITs_Unified_Communications_and_Collaboration,OU='
+                 b'Exchange PDLs,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_DigITs_LinkedInUsers,OU=ezGroups,OU=Resources,DC='
+                 b'MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_DigITs_Onsite_Staff,OU=Exchange PDLs,OU=Resources,D'
+                 b'C=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_TDI_ETS_AllStaff,OU=Exchange PDLs,OU=Resources,DC=M'
+                 b'SKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_DigITs_TD_Staff,OU=Exchange PDLs,OU=Resources,DC=MS'
+                 b'KCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_GlobalProtect_Users,OU=ezGroups,OU=Resources,DC=M'
+                 b'SKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_Gsuite_Users,OU=GoogleCloudDirectorySync,OU=ezGro'
+                 b'ups,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=ZoomAddIn,OU=Exchange Mail-Enabled Security Groups,OU=Res'
+                 b'ources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_MIS_OutlookPerformanceUpdate,OU=Exchange PDLs,OU=Re'
+                 b'sources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_ez2Factor_Registration_COVID_19,OU=ezGroups,OU=Re'
+                 b'sources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_MIS_CW_Employee_Survey,OU=Exchange PDLs,OU=Resource'
+                 b's,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_DigITs_Staff,OU=Office365Sync,OU=ezGroups,OU=Reso'
+                 b'urces,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_AdobeSign_DefaultGroup,OU=AdobeSignSync,OU=ezGrou'
+                 b'ps,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_DigITs_FTE_Staff,OU=Exchange PDLs,OU=Resources,DC=M'
+                 b'SKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_Office365_PowerApps_Automated,OU=ezGroups,OU=Reso'
+                 b'urces,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_AllStaff_AzureAD,OU=Office365Sync,OU=ezGroups,OU='
+                 b'Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_Staff,OU=ezGroups,OU=Resources,DC=MSKCC,DC=ROOT,D'
+                 b'C=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_OrgChart_Staff,OU=ezGroups,OU=Resources,DC=MSKCC,'
+                 b'DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_BOX_Users,OU=ezGroups,OU=Resources,DC=MSKCC,DC=RO'
+                 b'OT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_Office365_Yammer,OU=Office365Sync,OU=ezGroups,OU='
+                 b'Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=SWD_OutlookAddins,CN=Users,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=O'
+                 b'RG',
+                 b'CN=VCTelecom,OU=Service Accts,OU=Resources,DC=MSKCC,DC=ROOT,'
+                 b'DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_MIS_TRICS_Staff,OU=Exchange PDLs,OU=Resources,DC=MS'
+                 b'KCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_Office365_Teams_OneDrive,OU=Office365Sync,OU=ezGr'
+                 b'oups,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_Right_Fax_Users,OU=ezGroups,OU=Resources,DC=MSKCC'
+                 b',DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_MIS_SWD_MSKSECAddInTest,OU=Exchange PDLs,OU=Resourc'
+                 b'es,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_ezMFA_VPN_Users,OU=ezGroups,OU=Resources,DC=MSKCC'
+                 b',DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_JitneyAppPilot,OU=ezGroups,OU=Resources,DC=MSKCC,'
+                 b'DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_ezMFA_Users,OU=ezGroups,OU=Resources,DC=MSKCC,DC='
+                 b'ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_MIS_M-Activities,OU=Exchange PDLs,OU=Resources,DC=M'
+                 b'SKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_Office365_LicensedUsers,OU=Office365Sync,OU=ezGro'
+                 b'ups,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=MSK_HAD_GITHUB_USERS,CN=Users,DC=MSKCC,DC=ROOT,DC=MSKCC,D'
+                 b'C=ORG',
+                 b'CN=GRP_FIN_CoupaMobile,OU=ezGroups,OU=Resources,DC=MSKCC,DC='
+                 b'ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_MSK_Employee_Survey_2017,OU=Exchange PDLs,OU=Resour'
+                 b'ces,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_HRM_Perceptyx_EmployeeSurvey,OU=ezGroups,OU=Resources'
+                 b',DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=DenyMailAccess-with-ActiveSync-other-than-Airwatch,CN=Use'
+                 b'rs,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_NETSCALER_2Factor,OU=ezGroups,OU=Resources,DC=MSK'
+                 b'CC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=ctxz2 Lite,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_AllStaff,OU=ezGroups,OU=Resources,DC=MSKCC,DC=ROO'
+                 b'T,DC=MSKCC,DC=ORG',
+                 b'CN=vsnetDLwebtms1 Local Admins,OU=Local Server Admins,OU=Res'
+                 b'ources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzSPDL_MIS_ConferenceRooms_Viewers,OU=Exchange Mail-Enabl'
+                 b'ed Security Groups,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC'
+                 b'=ORG',
+                 b'CN=GRP_MIS_ezGroupsUsers,OU=ezGroups,OU=Resources,DC=MSKCC,D'
+                 b'C=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_CultureSurvey,OU=Exchange PDLs,OU=Resources,DC=MSKC'
+                 b'C,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_VideoDesignGroup,OU=Exchange PDLs,OU=Resources,DC=M'
+                 b'SKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_MSKCC_All_Employees,OU=Exchange Departments Distrib'
+                 b'ution Lists,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_SKI_ShareBoxUsers,OU=Exchange PDLs,OU=Resources,DC='
+                 b'MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=ShareBox,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_ACD_Prod,OU=ezGroups,OU=Resources,DC=MSKCC,DC=ROO'
+                 b'T,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_MIS_VideoDesign,OU=Exchange PDLs,OU=Resources,DC=MS'
+                 b'KCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=GRP_MIS_ADDM_RO,CN=Users,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_Site_633,OU=ezNotify,OU=Resources,DC=MSKCC,DC=ROOT,'
+                 b'DC=MSKCC,DC=ORG',
+                 b'CN=MSK_MDM_AW_Users,OU=AirWatch,OU=Apps,OU=Resources,DC=MSKC'
+                 b'C,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=SGM_SHP_MIS_Staff,OU=Security Group Manager,OU=Resources,'
+                 b'DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_MSK_Employees,OU=Exchange PDLs,OU=Resources,DC=MSKC'
+                 b'C,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_VideoDesktopUsers,OU=Exchange PDLs,OU=Resources,DC='
+                 b'MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_Blood Donor Program Contacts List,OU=Exchange PDLs,'
+                 b'OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzpdl_MIS_VoiceDesign,OU=Exchange PDLs,OU=Resources,DC=MS'
+                 b'KCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_MIS_633_5thFloor,OU=Exchange PDLs,OU=Resources,DC=M'
+                 b'SKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_InformationSystems_ICSStaff,OU=Exchange PDLs,OU=Res'
+                 b'ources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=SddG,CN=Users,DC=MSKCC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=zzPDL_MIS_Networking,OU=Exchange PDLs,OU=Resources,DC=MSK'
+                 b'CC,DC=ROOT,DC=MSKCC,DC=ORG',
+                 b'CN=MIS_InformationSystems_Staff,CN=Users,DC=MSKCC,DC=ROOT,DC'
+                 b'=MSKCC,DC=ORG',
+                 b'CN=zzPDL_InformationSystems_Staffx,OU=Exchange Departments D'
+                 b'istribution Lists,OU=Resources,DC=MSKCC,DC=ROOT,DC=MSKCC,DC='
+                 b'ORG'],
+    'mobile': [b'+1646-761-1669'],
+    'name': [b'chirenok'],
+    'otherTelephone': [b'123-0726'],
+    'pwdLastSet': [b'133268124334211888'],
+    'sn': [b'Chireno'],
+    'telephoneNumber': [b'+1646-888-0726'],
+    'title': [b'Infrastructure Engineer I'],
+    'userPrincipalName': [b'chirenok@mskcc.org'],
