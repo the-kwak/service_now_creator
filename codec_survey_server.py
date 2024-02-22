@@ -1,5 +1,4 @@
 #! /home/chirenok/Survey_System/Survey_server/bin/python3
-
 from flask import Flask, json, request
 from flask_restful import Api #Resource, Api
 from flask_limiter import Limiter
@@ -8,6 +7,8 @@ from flask_cors import CORS
 from the_spot_secret import *
 import requests
 from pathlib import Path
+import smtplib
+from email.message import EmailMessage
 
 
 # Attempting to set up WSGI server though this may not be needed as it is not going out to the internet
@@ -184,6 +185,25 @@ def submit_ot():
 
     
     return json.dumps({"Post_success": True, "user_tickets": new_ticket_dict}), 201
+
+def send_email():
+
+    text = 'Good Morning,\n Here is the weekly zoom removal report.'
+    msg = EmailMessage()
+    msg['From'] = 'codec_survey_report@mskcc.org'
+    msg['To'] = 'Rojash@mskcc.org'
+    msg['Subject'] = 'Weekly Survey report'
+    msg.set_content(text)
+
+    server = 'exchange2007.mskcc.org'
+    port = 25
+    excel_file = 'Zoom removal list.xlsx'
+    file_data = open(excel_file, 'rb').read()
+    msg.add_attachment(file_data, maintype='application', subtype='xlsx', filename=excel_file)
+    smtp = smtplib.SMTP(server, port)
+    smtp.send_message(msg)
+    smtp.quit()
+
 
 
 @app.route('/survey', methods=['POST'])
